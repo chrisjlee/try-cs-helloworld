@@ -1,6 +1,10 @@
 using System;
 
-namespace Dela.Mono.Examples
+/*
+ * http://www.codeproject.com/Articles/9407/Introduction-to-Mono-Your-first-Mono-app
+ */
+
+namespace Chrisjlee.Mono.Examples
 {
    public class HelloWorld
    {
